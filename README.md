@@ -1,3 +1,6 @@
+比较简单的入门也可以参考：http://www.jiawin.com/swiper-mobile-touch-slider-js，一些入门的demo：http://www.jiawin.com/demo/6589.html（特别推荐：含有Tab页的滑动）--by misterruan
+
+
 [![Build Status](https://travis-ci.org/nolimits4web/Swiper.svg?branch=master)](https://travis-ci.org/nolimits4web/Swiper)
 [![devDependency Status](https://david-dm.org/nolimits4web/swiper/dev-status.svg)](https://david-dm.org/nolimits4web/swiper#info=devDependencies)
 [![Flattr this git repo](http://api.flattr.com/button/flattr-badge-large.png)](https://flattr.com/submit/auto?user_id=nolimits4web&url=https://github.com/nolimits4web/swiper/&title=Framework7&language=JavaScript&tags=github&category=software)
